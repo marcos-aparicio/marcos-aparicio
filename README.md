@@ -19,7 +19,7 @@ Also a Linux enthusiast!
 
 - [LinkedIn](https://www.linkedin.com/in/marcos-aparicio/)
 
-- Email: marcos.aparicio1@outlook.com
+- Email: marcos.aparicio@pm.com
 
 <!--
 **marcos-aparicio/marcos-aparicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
